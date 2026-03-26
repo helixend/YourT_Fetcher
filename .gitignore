@@ -4,3 +4,11 @@ __pycache__/
 .DS_Store
 .env
 .streamlit/secrets.toml
+.idea/
+downloads/
+cookies.txt
+*.mp4
+*.mkv
+*.webm
+*.m4a
+*.mp3
